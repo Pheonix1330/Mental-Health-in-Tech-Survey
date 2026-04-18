@@ -1,0 +1,100 @@
+#  Mental Health in Tech - EDA Project
+
+##  Project Overview
+This project focuses on performing Exploratory Data Analysis (EDA) on a mental health survey dataset from the tech industry. The goal is to understand the factors affecting mental health and treatment-seeking behavior among employees.
+
+---
+
+##  Business Objective
+To analyze mental health data and identify key factors influencing employee well-being, helping organizations improve support systems, awareness, and productivity.
+
+---
+
+##  Dataset Description
+The dataset contains survey responses from individuals in the tech industry, including:
+
+- **Demographic Information:** Age, Gender, Country  
+- **Workplace Factors:** Remote work, company size, benefits  
+- **Mental Health Factors:** Treatment, family history, work interference  
+- **Awareness & Support:** Wellness programs, seek help, anonymity  
+
+---
+
+##  Data Preprocessing
+- Handled missing values  
+- Removed duplicate records  
+- Standardized categorical variables (e.g., Gender)  
+- Filtered unrealistic values (e.g., Age)  
+- Prepared dataset for analysis  
+
+---
+
+##  Exploratory Data Analysis (EDA)
+
+### 🔹 Univariate Analysis
+- Age Distribution  
+- Gender Distribution  
+- Treatment Distribution  
+- Work Interference  
+- Remote Work  
+
+###  Bivariate Analysis
+- Gender vs Treatment  
+- Family History vs Treatment  
+- Remote Work vs Treatment  
+- Work Interference vs Treatment  
+- Benefits vs Treatment  
+
+###  Multivariate Analysis
+- Age vs Gender vs Treatment  
+- Family History vs Work Interference  
+- Benefits vs Seek Help  
+
+---
+
+##  Key Insights
+- Majority of employees are in the 20–40 age group  
+- Individuals with family history are more likely to seek treatment  
+- Mental health issues impact work performance  
+- Workplace support increases treatment-seeking behavior  
+- Lack of awareness reduces effectiveness of support systems  
+
+---
+
+##  Business Recommendations
+- Improve mental health awareness programs  
+- Provide clear and accessible support resources  
+- Encourage open communication in workplaces  
+- Focus on high-risk groups (family history, work interference)  
+- Strengthen remote work support systems  
+
+---
+
+##  Visualizations Used
+- Countplots  
+- Histograms  
+- Boxplots  
+- Heatmap (Correlation)  
+- Pairplot  
+
+---
+
+##  Conclusion
+Mental health plays a crucial role in employee productivity and well-being. Organizations that invest in awareness, support systems, and inclusive policies can significantly improve workforce performance and satisfaction.
+
+---
+
+##  Future Scope
+- Build predictive models (Classification)  
+- Perform sentiment analysis on comments  
+- Develop dashboards for real-time insights  
+
+---
+
+##  Tools & Technologies
+- Python   
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Jupyter Notebook  
+
+---
